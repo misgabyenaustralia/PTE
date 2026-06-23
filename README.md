@@ -1,100 +1,103 @@
-# 📖 PTE Academic – Reading Practice Repository
+# ✨ Sección 3: Re-order Paragraphs
 
-> Recurso de estudio estructurado para dominar las 3 secciones de Reading del PTE Academic.  
-> Incluye ejercicios, explicaciones gramaticales, estrategias y claves de respuesta.
+## ¿En qué consiste?
 
----
+Se te presentan **4–6 oraciones en orden aleatorio**.  
+Debes organizarlas para formar un párrafo coherente y lógico.
 
-## 🧠 Secciones Cubiertas
-
-| # | Tipo de Pregunta | Habilidades | Carpeta |
-|---|-----------------|-------------|---------|
-| 1 | **Reading & Writing – Fill in the Blanks** | Collocations, preposiciones, formación de palabras | `section1-fill-blanks/` |
-| 2 | **Multiple Choice, Multiple Answers** | Sinónimos, idea principal, vocabulario académico | `section2-multiple-choice/` |
-| 3 | **Re-order Paragraphs** | Cohesión, conectores lógicos, referencias pronominales | `section3-reorder/` |
+**Habilidades evaluadas:** Cohesión textual, conectores lógicos, referencias pronominales, estructura del discurso académico.
 
 ---
 
-## 📁 Estructura del Repositorio
+## 🔹 Estrategias Clave
+
+### 1. Encontrar la oración inicial (Topic Sentence)
+
+La oración inicial (primera del párrafo) suele:
+- Introducir un **tema general** sin referencia a algo anterior
+- NO comenzar con conectores como "However", "Moreover", "Therefore", "This"
+- NO usar pronombres sin referente claro ("He", "She", "It", "They", "This") al inicio
+- Presentar una **afirmación general** que las demás oraciones desarrollan
+
+---
+
+### 2. Referencias Pronominales
+
+Los pronombres y demostrativos **apuntan hacia atrás** → revelan el orden:
+
+| Pronombre | Referencia |
+|-----------|-----------|
+| **He / She** | Una persona mencionada antes |
+| **It / They** | Una cosa o grupo mencionado antes |
+| **This / These** | Algo específico ya introducido |
+| **Such** | Una situación o concepto ya descrito |
+| **The former / the latter** | Dos cosas mencionadas en la oración anterior |
+
+**Ejemplo:**  
+→ "**He** was born in 1856..." — ¿Quién es "he"? Debe haber una oración antes que lo nombre.
+
+---
+
+### 3. Conectores Lógicos (Discourse Markers)
+
+Los conectores indican la relación entre oraciones:
+
+| Conector | Función | Posición típica |
+|----------|---------|----------------|
+| **For example / For instance** | Ejemplificar | Después de una afirmación general |
+| **Furthermore / Moreover / In addition** | Agregar información | No como primera oración |
+| **However / Nevertheless / Despite this** | Contraste | No como primera oración |
+| **Therefore / As a result / Consequently** | Conclusión/resultado | Después de causa |
+| **First / Initially** | Comienzo de secuencia | Puede ser primera o segunda |
+| **Finally / In conclusion** | Cierre | Última oración |
+| **This means that** | Explicación de consecuencia | Después de la causa |
+
+---
+
+### 4. Estructura Típica de un Párrafo Académico
 
 ```
-pte-reading-practice/
-│
-├── section1-fill-blanks/
-│   ├── README.md               → Teoría + ejercicios de Fill in the Blanks
-│   ├── exercise-01.md          → Ejercicio 1: Medio Ambiente
-│   ├── exercise-02.md          → Ejercicio 2: Tecnología
-│   └── exercise-03.md          → Ejercicio 3: Salud y Ciencia
-│
-├── section2-multiple-choice/
-│   ├── README.md               → Teoría + ejercicios Multiple Choice
-│   ├── exercise-01.md          → Texto: Vehículos Eléctricos
-│   ├── exercise-02.md          → Texto: Inteligencia Artificial
-│   └── exercise-03.md          → Texto: Cambio Climático
-│
-├── section3-reorder/
-│   ├── README.md               → Teoría + ejercicios de Re-order
-│   ├── exercise-01.md          → Tema: Ejercicio Físico
-│   ├── exercise-02.md          → Tema: Educación Digital
-│   └── exercise-03.md          → Tema: Energías Renovables
-│
-├── answer-keys/
-│   └── all-answers.md          → Respuestas con explicaciones
-│
-├── study-guides/
-│   └── grammar-guide.md        → Guía de gramática esencial para PTE
-│
-└── progress-tracker/
-    └── my-progress.md          → Tabla para registrar tu avance
+[Oración 1] → Topic sentence (afirmación general)
+[Oración 2] → Evidencia / explicación / causa
+[Oración 3] → Ejemplo o detalle específico
+[Oración 4] → Consecuencia / conclusión / contraste
 ```
 
 ---
 
-## ⏱️ Datos del Examen PTE Reading
+## 🔹 Ejemplo Resuelto
 
-| Dato | Información |
-|------|------------|
-| Tiempo total | 29–30 minutos |
-| Secciones de Reading | 5 tipos de tareas |
-| Puntaje máximo | 90 puntos |
-| Fill in the Blanks | 4–5 textos, 6–8 espacios cada uno |
-| Multiple Choice | 2–3 preguntas, puede haber penalización |
-| Re-order Paragraphs | 2–3 sets de 4–6 oraciones |
+**Oraciones desordenadas:**
+- (A) Moreover, the study found that regular exercise can improve mental health.
+- (B) Physical activity has many benefits for the human body.
+- (C) Research shows that people who exercise frequently tend to have better cardiovascular health.
+- (D) For example, those who walk or run regularly have a lower risk of heart disease.
 
-> ⚠️ **Importante:** En Multiple Choice Multiple Answers, las respuestas incorrectas **restan puntos**. Solo marca lo que estés seguro.
+**Análisis:**
+| Oración | Pista |
+|---------|-------|
+| B | Sin pronombres ni conectores → **Topic sentence** |
+| C | "Research shows" = evidencia de B |
+| D | "For example" = ejemplifica C |
+| A | "Moreover" = agrega otro beneficio |
 
----
-
-## 🚀 Cómo Usar Este Repositorio
-
-1. Lee el `README.md` de cada sección para entender la teoría
-2. Completa los ejercicios **sin ver las respuestas**
-3. Revisa tus respuestas en `answer-keys/all-answers.md`
-4. Registra tu puntaje en `progress-tracker/my-progress.md`
-5. Repasa los errores con la `study-guides/grammar-guide.md`
+**Orden correcto: B → C → D → A** ✅
 
 ---
 
-## 📚 Recursos Externos
+## 📝 Ejercicios
 
-- 🌐 [PTE Oficial – Pearson](https://www.pearsonpte.com/)
-- 📝 [PTE Sample Questions](https://www.pearsonpte.com/preparation/sample-questions)
-- 🎓 [E2Language PTE YouTube](https://www.youtube.com/@E2PTEAcademic)
-- 📊 [Score Guide PTE](https://www.pearsonpte.com/scores)
-
----
-
-## 📈 Tabla de Puntajes PTE
-
-| PTE Score | IELTS Equivalent | CEFR Level |
-|-----------|-----------------|-----------|
-| 85–90 | 8.5–9.0 | C2 |
-| 76–84 | 8.0 | C1+ |
-| 68–75 | 7.0–7.5 | C1 |
-| 59–67 | 6.5 | B2+ |
-| 50–58 | 6.0 | B2 |
-| 43–49 | 5.5 | B1+ |
+- 📄 [`exercise-01.md`](exercise-01.md) — Tema: Ejercicio físico y salud
+- 📄 [`exercise-02.md`](exercise-02.md) — Tema: Educación digital
+- 📄 [`exercise-03.md`](exercise-03.md) — Tema: Energías renovables
 
 ---
 
-*¡Buena suerte con tu preparación! 🎯 Apunta a 79+ para visa Australia/NZ*
+## 💡 Estrategias para el Examen
+
+1. **Identifica la topic sentence primero** — la que no puede ir después de nada
+2. **Busca el pronombre** y pregúntate: ¿a qué se refiere? Esa referencia debe estar en la oración anterior
+3. **Los ejemplos ("For example")** van después de la afirmación que ejemplifican
+4. **"However / Nevertheless"** va después de la idea que contrasta
+5. Si tienes dudas, lee el párrafo en voz alta — el flujo natural te ayuda a detectar errores
+6. En el examen, **arrastra las oraciones de más segura a menos segura**
