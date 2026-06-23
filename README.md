@@ -1,103 +1,84 @@
-# ✨ Sección 3: Re-order Paragraphs
+# ✨ Sección 2: Multiple Choice, Multiple Answers
 
 ## ¿En qué consiste?
 
-Se te presentan **4–6 oraciones en orden aleatorio**.  
-Debes organizarlas para formar un párrafo coherente y lógico.
+Lees un texto académico y seleccionas **todas las opciones correctas** (puede haber 1, 2 o más).  
+Normalmente hay **5–7 opciones** y debes identificar cuáles son verdaderas según el texto.
 
-**Habilidades evaluadas:** Cohesión textual, conectores lógicos, referencias pronominales, estructura del discurso académico.
-
----
-
-## 🔹 Estrategias Clave
-
-### 1. Encontrar la oración inicial (Topic Sentence)
-
-La oración inicial (primera del párrafo) suele:
-- Introducir un **tema general** sin referencia a algo anterior
-- NO comenzar con conectores como "However", "Moreover", "Therefore", "This"
-- NO usar pronombres sin referente claro ("He", "She", "It", "They", "This") al inicio
-- Presentar una **afirmación general** que las demás oraciones desarrollan
+> ⚠️ **ADVERTENCIA:** Las respuestas incorrectas **restan puntos**.  
+> Solo marca algo si estás seguro de que está en el texto.
 
 ---
 
-### 2. Referencias Pronominales
+## 🔹 Vocabulario Clave
 
-Los pronombres y demostrativos **apuntan hacia atrás** → revelan el orden:
+### 1. Synonyms & Paraphrasing (Sinónimos y reformulaciones)
 
-| Pronombre | Referencia |
-|-----------|-----------|
-| **He / She** | Una persona mencionada antes |
-| **It / They** | Una cosa o grupo mencionado antes |
-| **This / These** | Algo específico ya introducido |
-| **Such** | Una situación o concepto ya descrito |
-| **The former / the latter** | Dos cosas mencionadas en la oración anterior |
+La respuesta correcta rara vez usa las **mismas palabras** del texto.  
+El PTE reformula la información:
 
-**Ejemplo:**  
-→ "**He** was born in 1856..." — ¿Quién es "he"? Debe haber una oración antes que lo nombre.
+| En el texto | En la pregunta |
+|------------|---------------|
+| "reduced carbon emissions" | "lowered pollution levels" |
+| "governments offer incentives" | "authorities provide benefits" |
+| "critics argue" | "opponents claim / suggest" |
+| "significantly increased" | "grew substantially" |
+| "poses a risk to" | "threatens" |
 
----
-
-### 3. Conectores Lógicos (Discourse Markers)
-
-Los conectores indican la relación entre oraciones:
-
-| Conector | Función | Posición típica |
-|----------|---------|----------------|
-| **For example / For instance** | Ejemplificar | Después de una afirmación general |
-| **Furthermore / Moreover / In addition** | Agregar información | No como primera oración |
-| **However / Nevertheless / Despite this** | Contraste | No como primera oración |
-| **Therefore / As a result / Consequently** | Conclusión/resultado | Después de causa |
-| **First / Initially** | Comienzo de secuencia | Puede ser primera o segunda |
-| **Finally / In conclusion** | Cierre | Última oración |
-| **This means that** | Explicación de consecuencia | Después de la causa |
+**Estrategia:** Busca el **significado**, no las palabras exactas.
 
 ---
 
-### 4. Estructura Típica de un Párrafo Académico
+### 2. Main Idea vs. Details
 
-```
-[Oración 1] → Topic sentence (afirmación general)
-[Oración 2] → Evidencia / explicación / causa
-[Oración 3] → Ejemplo o detalle específico
-[Oración 4] → Consecuencia / conclusión / contraste
-```
+| Tipo | Descripción | Señal en la pregunta |
+|------|------------|---------------------|
+| Idea principal | De qué trata el texto en general | "The main purpose of..." / "The text primarily..." |
+| Detalle | Un hecho específico mencionado | "According to the text..." / "The author states..." |
+| Inferencia | Algo que se deduce (raro en esta sección) | "It can be inferred that..." |
+
+---
+
+### 3. Trampas Comunes (Distractors)
+
+| Tipo de trampa | Ejemplo |
+|---------------|---------|
+| **Verdad a medias** | El texto dice "algunas ciudades". La opción dice "todas las ciudades" → ❌ |
+| **Opuesto** | El texto dice "aumentó". La opción dice "disminuyó" → ❌ |
+| **No mencionado** | La opción habla de algo que el texto nunca menciona → ❌ |
+| **Demasiado extremo** | El texto dice "puede causar". La opción dice "siempre causa" → ❌ |
+| **Palabras del texto, significado diferente** | Mismas palabras, contexto diferente → ❌ |
 
 ---
 
 ## 🔹 Ejemplo Resuelto
 
-**Oraciones desordenadas:**
-- (A) Moreover, the study found that regular exercise can improve mental health.
-- (B) Physical activity has many benefits for the human body.
-- (C) Research shows that people who exercise frequently tend to have better cardiovascular health.
-- (D) For example, those who walk or run regularly have a lower risk of heart disease.
+**Texto:**  
+*The introduction of electric vehicles (EVs) has significantly reduced carbon emissions in urban areas. Many countries now offer incentives for EV buyers, including tax reductions and free charging stations. However, critics argue that battery production still has an environmental impact.*
 
-**Análisis:**
-| Oración | Pista |
-|---------|-------|
-| B | Sin pronombres ni conectores → **Topic sentence** |
-| C | "Research shows" = evidencia de B |
-| D | "For example" = ejemplifica C |
-| A | "Moreover" = agrega otro beneficio |
+**Pregunta:** ¿Cuáles son verdaderas según el texto?
 
-**Orden correcto: B → C → D → A** ✅
+| Opción | ¿Correcta? | Razón |
+|--------|-----------|-------|
+| A) Los autos eléctricos han reducido emisiones en ciudades | ✅ | Textualmente confirmado |
+| B) Algunos gobiernos incentivan la compra de EVs | ✅ | "Many countries offer incentives" |
+| C) La producción de baterías no tiene impacto ambiental | ❌ | El texto dice lo CONTRARIO |
 
 ---
 
 ## 📝 Ejercicios
 
-- 📄 [`exercise-01.md`](exercise-01.md) — Tema: Ejercicio físico y salud
-- 📄 [`exercise-02.md`](exercise-02.md) — Tema: Educación digital
-- 📄 [`exercise-03.md`](exercise-03.md) — Tema: Energías renovables
+- 📄 [`exercise-01.md`](exercise-01.md) — Texto: Vehículos Eléctricos (nivel intermedio)
+- 📄 [`exercise-02.md`](exercise-02.md) — Texto: Inteligencia Artificial (nivel avanzado)
+- 📄 [`exercise-03.md`](exercise-03.md) — Texto: Cambio Climático (nivel avanzado)
 
 ---
 
 ## 💡 Estrategias para el Examen
 
-1. **Identifica la topic sentence primero** — la que no puede ir después de nada
-2. **Busca el pronombre** y pregúntate: ¿a qué se refiere? Esa referencia debe estar en la oración anterior
-3. **Los ejemplos ("For example")** van después de la afirmación que ejemplifican
-4. **"However / Nevertheless"** va después de la idea que contrasta
-5. Si tienes dudas, lee el párrafo en voz alta — el flujo natural te ayuda a detectar errores
-6. En el examen, **arrastra las oraciones de más segura a menos segura**
+1. **Lee el texto completo** antes de ver las preguntas
+2. **Subraya ideas principales** mientras lees
+3. Para cada opción, **vuelve al texto** y busca evidencia directa
+4. Si no encuentras la información en el texto → **NO la marques**
+5. Ten cuidado con palabras absolutas: "always", "never", "all", "none" → casi siempre son incorrectas
+6. Si tienes dudas entre dos opciones, elige solo la que estés más seguro — el riesgo de restar no vale la pena
